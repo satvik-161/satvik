@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 shankar,santu,shreyas,satvik are good friends
+=======
+satvik nadiger
+>>>>>>> demo
