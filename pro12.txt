@@ -1,4 +1,7 @@
 satvik nadiger
 sohan nadiger
+<<<<<<< HEAD
 swati nadiger
 swaroop nadiger
+=======
+>>>>>>> parent of 531fcd9 (third commit)
